@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/mariagorettik" target="blank"><img src="https://img.shields.io/twitter/follow/mariagorettik?logo=twitter&style=for-the-badge" alt="mariagorettik" /></a> </p>
 
-- 🌱 I’m currently learning **React and C++**
+- 🌱 I’m currently learning **React,Typescript and Nest js**
 
 - 👨‍💻 All of my projects are available at [https://github.com/MariaGKimani](https://github.com/MariaGKimani)
 
