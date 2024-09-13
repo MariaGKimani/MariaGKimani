@@ -13,7 +13,7 @@
 
 - 📝 I regularly write articles on [Django,Python,SQL](Django,Python,SQL)
 
-- 💬 Ask me about **Django,HTML,CSS,Javascript ,Python and Kotlin**
+- 💬 Ask me about **Django,HTML,CSS,Javascript ,Python and React**
 
 - 📫 How to reach me **mariakimanigoretti@gmail.com**
 
